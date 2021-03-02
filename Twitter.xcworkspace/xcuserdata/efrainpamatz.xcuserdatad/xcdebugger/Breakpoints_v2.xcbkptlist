@@ -1,23 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Bucket
-   uuid = "B72616BA-FF8A-4003-9EB4-721E1F3CA8E7"
+   uuid = "39B70B16-E746-42AC-BBCE-6D70604CC658"
    type = "0"
    version = "2.0">
    <Breakpoints>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "F7A7AED1-DEDD-4D8F-96B9-5ACF95A5E595"
-            shouldBeEnabled = "Yes"
+            uuid = "801D433B-BAA0-46B5-BA51-3D19C46962DC"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Twitter/HomeTableViewController.swift"
+            filePath = "Twitter/TweetViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "88"
-            endingLineNumber = "88"
-            landmarkName = "numberOfSections(in:)"
-            landmarkType = "7">
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "TweetViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "801D433B-BAA0-46B5-BA51-3D19C46962DC - b3a4a545a97cb3de"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Twitter.TweetViewController.tweetTextView.getter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Twitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/efrainpamatz/Downloads/Twitter-master/Twitter/TweetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "801D433B-BAA0-46B5-BA51-3D19C46962DC - 14355c22884f7bca"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Twitter.TweetViewController.tweetTextView.setter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Twitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/efrainpamatz/Downloads/Twitter-master/Twitter/TweetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "801D433B-BAA0-46B5-BA51-3D19C46962DC - 414fb98421a511db"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Twitter.TweetViewController.tweetTextView.modify : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "Twitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/efrainpamatz/Downloads/Twitter-master/Twitter/TweetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "801D433B-BAA0-46B5-BA51-3D19C46962DC - 4923b08719142e71"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Twitter.TweetViewController.tweetTextView.modify : Swift.Optional&lt;__C.UITextView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Twitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/efrainpamatz/Downloads/Twitter-master/Twitter/TweetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "801D433B-BAA0-46B5-BA51-3D19C46962DC - b4cc111b3f7cc1ba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Twitter.TweetViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Twitter.TweetViewController"
+                  moduleName = "Twitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/efrainpamatz/Downloads/Twitter-master/Twitter/TweetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "801D433B-BAA0-46B5-BA51-3D19C46962DC - d3cb46450452cd10"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Twitter.TweetViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Twitter.TweetViewController&gt;"
+                  moduleName = "Twitter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/efrainpamatz/Downloads/Twitter-master/Twitter/TweetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
